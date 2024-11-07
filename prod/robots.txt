@@ -1,3 +1,0 @@
-User-Agent: *
-Sitemap: https://rubber-roofing-direct.github.io/epdm-calculator-iframe-host/sitemap.xml
-Disallow: /
